@@ -1,6 +1,6 @@
 # Hi, I'm lingyicute / lyi 梨 👋
 
-Please note that this is my secondary account, used exclusively for specific assignments. If you need to reach me, please contact my main account:
+Please note that this is my backup account, and it is mostly operated by my girlfriend. If you need to reach me, please contact my main account:
 
 [![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/lingyicute)
 
