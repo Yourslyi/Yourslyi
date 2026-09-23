@@ -1,5 +1,9 @@
 # Hi, I'm lingyicute / lyi 梨 👋
 
+Please note that this is my secondary account, used exclusively for specific assignments. If you need to reach me, please contact my main account:
+
+[![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/lingyicute)
+
 ## enfp & les / 爱你浅浅不停息，繁星在春天里投影
 
 ## 🍐 × 💻 = ❤️ | Open Source Enthusiast, Developer & Security Researcher
@@ -24,11 +28,6 @@ I believe in open ecosystems, the right to repair, and the idea that one person'
 - Proudly collecting "e-waste" — giving vintage electronics a second life. 💖
 
 Feel free to reach out for tech discussions, open-source collaborations, or just to share some cool electronic junk!
-
-### 📬 Reach out:
-[![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/lingyicute)
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg)](mailto:lingyicute@gmail.com)
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/lingyicute2323)
 
 ### 🤗 Thoughts on AI & Code Quality
 
